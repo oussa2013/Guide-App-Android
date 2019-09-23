@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="Entry">ENTER NOW ...</string>
+    <string name="Welcome">WELCOME</string>
+    <string name="Enjoy">ENJOY FREE MUSIC</string>
+    <string name="Message1">Warning</string>
+    <string name="Message2">Please try all servers</string>
+    <string name="Title1">server 1</string>
+    <string name="Title2">server 2</string>
+    <string name="Title3">server 3</string>
+    <string name="Title4">server 4</string>
+    <string name="Title5">server 5</string>
+    <string name="Title6">server 6</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ares Musica</string>
+    <string name="Entry">ENTRAR AHORA ...</string>
+    <string name="Welcome">BIENVENIDO</string>
+    <string name="Enjoy">DISFRUTAR DE MÚSICA GRATIS</string>
+    <string name="Message1">Advertencia</string>
+    <string name="Message2">Por favor intente todos los servidores</string>
+    <string name="Title1">servidor 1</string>
+    <string name="Title2">servidor 2</string>
+    <string name="Title3">servidor 3</string>
+    <string name="Title4">servidor 4</string>
+    <string name="Title5">servidor 5</string>
+    <string name="Title6">servidor 6</string>
+</resources>
